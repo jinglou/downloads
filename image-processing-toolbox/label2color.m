@@ -1,3 +1,4 @@
+
 function RGB = label2color(varargin)
 %LABEL2COLOR Converts Label Matrix to RGB Image with Specified Properties.
 %   RGB = LABEL2COLOR(X) converts a label matrix X into a color RGB image 

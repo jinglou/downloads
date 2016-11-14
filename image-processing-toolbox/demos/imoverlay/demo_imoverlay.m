@@ -1,7 +1,7 @@
 % demo for imoverlay
 % IMOVERLAY Creates Label Matrix MAP based Image Overlay with Specified Properties.
 %
-%   MATLAB source code is available at https://github.com/jinglou/image-processing-toolbox/tree/master/demos/imoverlay
+%   MATLAB source code is available at https://github.com/jinglou/downloads/tree/master/image-processing-toolbox/demos/imoverlay
 %                                   or https://www.mathworks.com/matlabcentral/fileexchange/54629-imoverlay
 %
 %

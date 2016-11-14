@@ -1,7 +1,7 @@
 % demo for label2color
 % LABEL2COLOR Converts Label Matrix to RGB Image with Specified Properties.
 %
-%   MATLAB source code is available at https://github.com/jinglou/image-processing-toolbox/tree/master/demos/label2color
+%   MATLAB source code is available at https://github.com/jinglou/downloads/tree/master/image-processing-toolbox/demos/label2color
 %                                   or https://www.mathworks.com/matlabcentral/fileexchange/54579-label2color
 %
 %   23/12/2015
