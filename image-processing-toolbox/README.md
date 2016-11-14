@@ -6,4 +6,4 @@ Copyright (C) [Jing Lou](http://www.loujing.com)
 
 ## Demos
 
-[label2color](https://github.com/jinglou/image-processing-toolbox/tree/master/demos/label2color) | [imoverlay](https://github.com/jinglou/image-processing-toolbox/tree/master/demos/imoverlay)
+[imoverlay](https://github.com/jinglou/downloads/tree/master/image-processing-toolbox/demos/imoverlay) | [label2color](https://github.com/jinglou/downloads/tree/master/image-processing-toolbox/demos/label2color)
