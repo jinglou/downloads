@@ -17,24 +17,23 @@ PROPERTIES can be a comma-separated list of strings
 
 ### Class Support
 
-The input label matrix X can have any numeric class. It must contain
-finite nonnegative integers. RGB is uint8.
+The input label matrix X can have any numeric class. It must contain finite nonnegative integers. RGB is uint8.
 
 ### Examples
  - Example 1
-```matlab
-RGB = label2color(X);
-```
+	```matlab
+	RGB = label2color(X);
+	```
 
  - Example 2
-```matlab
-RGB = label2color(X,'colormap','summer');
-```
+	```matlab
+	RGB = label2color(X,'colormap','summer');
+	```
 
  - Example 3
-```matlab
-RGB = label2color(X,'ColorMap','hot','ZeroColor',[0 0 1],'EdgeColor',[1 1 1],'EdgeWidth',3);
-```
+	```matlab
+	RGB = label2color(X,'ColorMap','hot','ZeroColor',[0 0 1],'EdgeColor',[1 1 1],'EdgeWidth',3);
+	```
 
 ###Updates
  - 23/12/2015, ver 1.30, support custom colormap
