@@ -9,7 +9,7 @@ Project page: [http://www.loujing.com/rpc-saliency/](http://www.loujing.com/rpc-
 
 This code and data are also available at my [Baidu Cloud (百度网盘)](http://pan.baidu.com/s/1gf8zeld#list/path=%2Fdownloads%2FSED2_GT).
 
-Copyright (C) [Jing Lou](http://www.loujing.com) 
+Copyright (C) [Jing Lou](http://www.loujing.com)
 
 ### Folders
 
