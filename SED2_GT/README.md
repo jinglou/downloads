@@ -5,7 +5,6 @@ SED2_GT generates the binary masks of the evaluation database SED2 for saliency 
 If you use this code or data, please cite our paper:
 
 **Jing Lou**, Mingwu Ren, Huan Wang, "Regional Principal Color Based Saliency Detection," ***PLoS ONE***, vol. 9, no. 11, pp. e112475: 1-13, 2014. [doi:10.1371/journal.pone.0112475](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0112475)
-
 Project page: [http://www.loujing.com/rpc-saliency/](http://www.loujing.com/rpc-saliency/)
 
 This code and data are also available at my [Baidu Cloud (百度网盘)](http://pan.baidu.com/s/1gf8zeld#list/path=%2Fdownloads%2FSED2_GT).
