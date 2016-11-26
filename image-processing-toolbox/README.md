@@ -7,4 +7,4 @@ Copyright (C) [Jing Lou](http://www.loujing.com)
 ## Demos
 
  - [imoverlay](https://github.com/jinglou/downloads/tree/master/image-processing-toolbox/demos/imoverlay) | [label2color](https://github.com/jinglou/downloads/tree/master/image-processing-toolbox/demos/label2color)
- - You can directly download the zipped files of the MATLAB code and demos: [Benchmark.zip](https://raw.githubusercontent.com/jinglou/p2016-rss-small-target/master/Benchmark.zip).
+ - You can directly download the zipped files of the demos: [imoverlay.zip](https://raw.githubusercontent.com/jinglou/downloads/master/image-processing-toolbox/demos/imoverlay.zip) | [label2color.zip](https://raw.githubusercontent.com/jinglou/downloads/master/image-processing-toolbox/demos/label2color.zip).
