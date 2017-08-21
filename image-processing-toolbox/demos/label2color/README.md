@@ -44,4 +44,4 @@ The input label matrix X can have any numeric class. It must contain finite nonn
  - 20/12/2015, ver 1.10, modify the code for 'EdgeWidth'
 
 
-Copyright (C) 2015 [Jing Lou](http://www.loujing.com)
+Copyright (C) 2015 [Jing Lou (楼竞)](http://www.loujing.com)
