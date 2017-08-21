@@ -49,8 +49,8 @@ IMOVERLAY Creates Label Matrix MAP based Image Overlay with Specified Properties
 
 ### Updates
 
-  - 26/12/2015, ver 1.01, bug fix for custom ColorMap	
+  - 26/12/2015, ver 1.01, bug fix for custom ColorMap
   - 25/12/2015, ver 1.00
 
 
-Copyright (C) 2015 [Jing Lou](http://www.loujing.com)
+Copyright (C) 2015 [Jing Lou （楼竞)](http://www.loujing.com)
