@@ -1,6 +1,5 @@
 <div align="center"><img class="aligncenter" src="https://raw.githubusercontent.com/jinglou/downloads/master/image-processing-toolbox/demos/label2color/demo_label2color_result.png" alt="Image Processing Toolbox using MATLAB - label2color" title="Image Processing Toolbox using MATLAB - label2color" width="70%"/></div>
 
-
 ## label2color
 
 LABEL2COLOR Converts Label Matrix to RGB Image with Specified Properties.
