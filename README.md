@@ -6,4 +6,4 @@
 
  - These resources are also available at my [Baidu Cloud (百度网盘)](http://pan.baidu.com/s/1gf8zeld#list/path=%2Fdownloads).
 
-Copyright (C) [Jing Lou](http://www.loujing.com)
+Copyright (C) [Jing Lou (楼竞)](http://www.loujing.com)
