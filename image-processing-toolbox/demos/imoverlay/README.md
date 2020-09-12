@@ -1,4 +1,4 @@
-<div align="center"><img class="aligncenter" src="https://raw.githubusercontent.com/jinglou/downloads/master/image-processing-toolbox/demos/imoverlay/demo_imoverlay_result.png" alt="Image Processing Toolbox using MATLAB - imoverlay" title="Image Processing Toolbox using MATLAB - imoverlay" width="70%"/></div>
+<div align="center"><img class="aligncenter" src="http://www.loujing.com/wp-content/uploads/research/downloads/demo_imoverlay_result.png" alt="Image Processing Toolbox using MATLAB - imoverlay" title="Image Processing Toolbox using MATLAB - imoverlay" width="70%"/></div>
 
 <br/>
 
